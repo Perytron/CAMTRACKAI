@@ -155,7 +155,7 @@ $find . -type d -name "*opencv*" -prune -exec rm -rf {} \;
 
 ## Authors
 
-* **BE3dARt (Gianluca Imbiscuso)** - *Project Planning/Coding/GitHub/Documentation* - [BE3dARt.ch](https://be3dart.ch/)
+* **Perytron (Gianluca)** - *Project Planning/Coding/GitHub/Documentation* - [perytron.ch](https://perytron.ch/)
 * **Kay** - *Project Planning/Planning and building of construction/Documentation*
 * **Luca** - *Project Planning/Documentation*
 
